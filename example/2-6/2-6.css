@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+p{
+	color: purple;
+	/*padding: 5px;*/
+	/*padding-bottom: 5px;*/
+	/*padding: up, right, bottom, left*/
+	/*padding: 3px 10px 20px 0;*/
+	/*padding: 10px 0px; */ /*up down, left right*/
+	padding:5px 0 10px;
+	margin: 5px 0;/*top down, left right*/
+
+}
