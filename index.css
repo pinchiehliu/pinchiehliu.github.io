@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lobster&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html{
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+body{
+	width: 100%;
+	height: 100%;
+	
+	font:2,4vh/3.6vh;
+}
+h1{
+	padding: 10px;
+	font-family: Itim;
+}
+
+nav{
+	position: fixed;
+	height: 100%;
+	width: 20%;
+	margin-right: 80%;
+	background-color: #fcf9e1;
+	color: #071959;
+	text-align: center;
+	font-family: Lobster;
+}
+a{
+	
+
+	color: #071959;
+}
+div{
+	padding: 20px 0;
+}
+div:hover{
+	background-color: #c3f2bd;
+	
+}
+article{
+	height: 200%;
+	width: 80%;
+	margin-left: 20%;
+	background-color: #d4f0ff;
+	padding: 5px 10px;
+}
+section{
+	padding: 15px 15px 0 15px;
+	background-color: #d4e6ff;
+	border-radius: 50 %
+}
+p{
+	padding: 15px 15px 0 15px;
+	background-color: #d4e6ff;
+}
