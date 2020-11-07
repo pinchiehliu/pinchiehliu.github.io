@@ -10,6 +10,7 @@ html{
 	height: 100%;
 	overflow-x: hidden;
 	overflow-y: auto;
+	
 }
 body{
 	width: 100%;
@@ -27,18 +28,20 @@ nav{
 	height: 100%;
 	width: 20%;
 	margin-right: 80%;
-	background-color: #fcf9e1;
+	background-color: #e3efff;
 	color: #071959;
 	text-align: center;
 	font-family: Lobster;
 }
 a{
-	
 
 	color: #071959;
 }
 div{
 	padding: 20px 0;
+}
+div:first-child{
+	padding-top: 35px;
 }
 div:hover{
 	background-color: #c3f2bd;
@@ -48,15 +51,19 @@ article{
 	height: 200%;
 	width: 80%;
 	margin-left: 20%;
-	background-color: #d4f0ff;
 	padding: 5px 10px;
 }
-section{
+article>section{
 	padding: 15px 15px 0 15px;
-	background-color: #d4e6ff;
-	border-radius: 50 %
+	margin-right: 20%;
+	margin-left: 1%;
+	background-color: #ffffe3;
+	
 }
 p{
 	padding: 15px 15px 0 15px;
-	background-color: #d4e6ff;
+	margin-top: 5%;
+	margin-left: 30%;
+	margin-right: 1%;
+	background-color: #ffffe3;
 }
