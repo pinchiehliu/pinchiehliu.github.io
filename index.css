@@ -15,7 +15,7 @@ html{
 body{
 	width: 100%;
 	height: 100%;
-	
+	background-color: #fffef0;
 	font:2,4vh/3.6vh;
 }
 h1{
@@ -28,7 +28,7 @@ nav{
 	height: 100%;
 	width: 20%;
 	margin-right: 80%;
-	background-color: #a8cbff;
+	background-color: #c9ecff;
 	color: #071959;
 	text-align: center;
 	font-family: Kalam;
@@ -59,7 +59,7 @@ article>section{
 	padding: 15px 15px 0 15px;
 	margin-right: 20%;
 	margin-left: 1%;
-	background-color: #d9e6ff;
+	background-color: #f0f9ff;
 	
 }
 p{
@@ -67,5 +67,5 @@ p{
 	margin-top: 5%;
 	margin-left: 25%;
 	margin-right: 1%;
-	background-color: #d9e6ff;
+	background-color: #f0f9ff;
 }
