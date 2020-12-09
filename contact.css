@@ -23,7 +23,7 @@ h1{
 	font-family: Itim;
 }
 
-nav{
+nav:first-child{
 	position: fixed;
 	height: 100%;
 	width: 20%;
@@ -51,6 +51,7 @@ div:hover{
 article{
 	height: 200%;
 	width: 80%;
+	position: relative;
 	font-family: Piazzolla;
 	margin-left: 20%;
 	padding: 5px 10px;
