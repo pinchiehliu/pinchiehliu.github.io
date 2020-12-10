@@ -13,7 +13,7 @@ html{
 	
 }
 body{
-	text-align: right;
+	text-align: center;
 	background-color: #b0e3ff;
 }
 
@@ -30,6 +30,9 @@ div{
 	
 	font-family: Nerko One;
 	font-size: 3.6vh;
+}
+nav:first-child>div:hover{
+	background-color: #e4ffd4;
 }
 article>section{
 	font-size: 4.8vh;

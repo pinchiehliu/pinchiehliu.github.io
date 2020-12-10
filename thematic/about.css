@@ -16,14 +16,13 @@ body{
 	width: 100%;
 	height: 100%;
 	background-color: #b0e3ff;
-	
+	text-align: center;
 }
 
 
 nav{
 	background-color: #d1f542;
-	text-align: right;
-}
+}	
 div{
 	display: inline-block;
 	padding: 15px;
@@ -33,6 +32,9 @@ div{
 	
 	font-family: Nerko One;
 	font-size: 3.6vh;
+}
+nav:first-child>div:hover{
+	background-color: #e4ffd4;
 }
 article{
 	text-align: left;
