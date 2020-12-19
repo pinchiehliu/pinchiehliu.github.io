@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Langar&family=Kaushan+Script&display=swap');
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+
+
 
 }
 html{
@@ -14,26 +16,41 @@ html{
 }
 body{
 	text-align: center;
-	background-color: #b0e3ff;
+	
 }
 
-nav{
+nav:first-child{
 
-	background-color: #d1f542;
+	background-color: #ecd6c7;
 }
-div{
+nav:first-child>div{
 	display: inline-block;
 	padding: 15px;
 	margin:5px;
 	width: 150px;
 	height: 50px;
-	
+	background-color: #ecd6c7;
 	font-family: Nerko One;
 	font-size: 3.6vh;
 }
 nav:first-child>div:hover{
-	background-color: #e4ffd4;
+	background-color: #e79686;
 }
-article>section{
-	font-size: 4.8vh;
+nav:not(:first-child){
+	font-family: Langar;
+	font-size: 12vh;
+	background-color: #a39391;
+	text-align: center;
+}
+nav:not(:first-child)>div:not(:first-child){
+	width: 100%;
+	height:850px;
+	text-align: center;
+	color:white;
+	padding-top: 30px;
+}
+p{
+	font-family: Kaushan Script;
+	padding-top: 20px;
+	font-size: 7vh;
 }

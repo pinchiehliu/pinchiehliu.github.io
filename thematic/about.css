@@ -15,29 +15,32 @@ html{
 body{
 	width: 100%;
 	height: 100%;
-	background-color: #b0e3ff;
+	background-color: #a39391;
 	text-align: center;
 }
 
 
-nav{
-	background-color: #d1f542;
-}	
-div{
+nav:first-child{
+
+	background-color: #ecd6c7;
+}
+nav:first-child>div{
 	display: inline-block;
 	padding: 15px;
 	margin:5px;
 	width: 150px;
 	height: 50px;
-	
+	background-color: #ecd6c7;
 	font-family: Nerko One;
 	font-size: 3.6vh;
 }
 nav:first-child>div:hover{
-	background-color: #e4ffd4;
+	background-color: #e79686;
 }
+
 article{
-	text-align: left;
+	text-align: center;
 	padding: 20px;
 	font-size: 3vh;
+	background-color: #a39391;
 }
