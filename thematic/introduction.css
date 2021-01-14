@@ -14,6 +14,7 @@ html{
 }
 body{
 	text-align: center;
+		background-color: #a39391;
 	}
 
 nav:first-child{
@@ -39,11 +40,11 @@ nav#menu{
 	height: 100%;
 	width: 20%;
 	margin-right: 80%;
-	background-color: #a39391;
+	background-color: #cf9482;
 	color: #071959;
 	text-align: center;
 	font-family: Dancing Script;
-	font-size: 4vh;
+	font-size: 5vh;
 	font-weight: bold;
 }
 nav#menu>div{
@@ -51,7 +52,8 @@ nav#menu>div{
 	text-align: center;
 }
 nav#menu>div:hover{
-	background-color: white;
+	background-color: #854e4b;
+	color: white;
 }
 article{
 	background-color: #b0e3ff;
