@@ -47,7 +47,7 @@ nav:not(:first-child)>div:not(:first-child){
 	height:850px;
 	text-align: center;
 	color:white;
-	padding-top: 30px;
+	padding-top: 120px;
 }
 p{
 	font-family: Kaushan Script;

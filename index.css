@@ -15,7 +15,7 @@ html{
 body{
 	width: 100%;
 	height: 100%;
-	background-color: #fffef0;
+	background-color: #F9DEC9;
 	font:2,4vh/3.6vh;
 }
 h1{
@@ -28,15 +28,15 @@ nav{
 	height: 100%;
 	width: 20%;
 	margin-right: 80%;
-	background-color: #c9ecff;
-	color: #071959;
+	background-color: #AEC5EB;
+	color: #3A405A;
 	text-align: center;
 	font-family: Kalam;
 	font-size: 4.8vh;
 }
 a{
 
-	color: #071959;
+	color: #3A405A;
 }
 div{
 	padding: 20px 0;
@@ -46,8 +46,13 @@ div:first-child{
 	padding-top: 35px;
 }
 div:hover{
-	background-color: #c3f2bd;
+	background-color: #3A405A;
+	color: #AEC5EB;
 	
+}
+a:hover{
+
+	color: #AEC5EB;
 }
 article{
 	height: 200%;
@@ -60,7 +65,7 @@ article>section{
 	padding: 15px 15px 0 15px;
 	margin-right: 20%;
 	margin-left: 1%;
-	background-color: #f0f9ff;
+	background-color: #E9AFA3;
 	
 }
 p{
@@ -68,5 +73,5 @@ p{
 	margin-top: 5%;
 	margin-left: 25%;
 	margin-right: 1%;
-	background-color: #f0f9ff;
+	background-color: #E9AFA3;
 }
