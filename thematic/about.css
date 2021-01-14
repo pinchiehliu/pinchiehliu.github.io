@@ -40,7 +40,18 @@ nav:first-child>div:hover{
 
 article{
 	text-align: center;
-	padding: 20px;
+	margin: 50px 200px 50px 200px;
+	padding: 30px;
 	font-size: 4vh;
-	background-color: #a39391;
+	background-color: #FADAD8;
+	background: linear-gradient(135deg, transparent 25px, #FADAD8 0 ) top left,
+                linear-gradient(-135deg, transparent 25px, #FADAD8 0 ) top right,
+                linear-gradient(-45deg, transparent 25px, #FADAD8 0 ) bottom right,
+                linear-gradient(45deg, transparent 25px, #FADAD8 0 ) bottom left;
+    background-size:50% 50% ;
+    background-repeat: no-repeat;
+    
+    padding: 1em 1 .2em;
+    max-width: 1000px;
+    line-height: 1 .5em;
 }
