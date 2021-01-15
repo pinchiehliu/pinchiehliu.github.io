@@ -77,9 +77,15 @@ img{
 
 article>div{
 	display: inline-block;
-	height: 510px;
+	height: 700px;
 	width: 400px;
 	margin: 15px;
 	padding: 15px;
 	background-color: #FFEBE7;
+}
+
+p{
+	margin: 10px;
+	padding: 5px;
+	background-color: #fff7f7;
 }

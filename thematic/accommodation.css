@@ -70,17 +70,23 @@ article{
 	margin-right: 5%;	
 	padding: 10px;
 }
-img{
-	margin: 10px 40px 10px 60px;
-}
+
 
 
 article>div{
 	display: inline-block;
 	
-	height: 500px;
+	height: 640px;
 	width: 400px;
 	margin: 15px;
 	padding: 15px;
 	background-color: #FFEBE7;
+}
+p{
+	margin: 10px;
+	padding: 5px;
+	background-color: #fff7f7;
+}
+img{
+	margin: 10px 40px 10px 60px;
 }
