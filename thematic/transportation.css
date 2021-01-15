@@ -50,12 +50,10 @@ nav#menu{
 	font-weight: bold;
 }
 nav#menu>div{
-	height: 100px;
-	padding: 20px;
+	height: 120px;
+	padding: 30px;
 	text-align: center;
-
 }
-
 nav#menu>div:hover{
 	background-color: #854e4b;
 	color: white;
@@ -66,7 +64,7 @@ article{
 	height: 100%;
 	width: 70%;
 	margin-left: 25%;
-	margin-top: -350px;
+	margin-top: -450px;
 	margin-right: 5%;	
 	padding: 10px;
 }
@@ -78,7 +76,7 @@ img{
 article>div{
 	display: inline-block;
 	
-	height: 500px;
+	height: 400px;
 	width: 400px;
 	margin: 15px;
 	padding: 15px;

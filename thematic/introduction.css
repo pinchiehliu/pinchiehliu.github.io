@@ -50,9 +50,10 @@ nav#menu{
 	font-weight: bold;
 }
 nav#menu>div{
-	height: 100px;
-	padding: 20px;
+	height: 120px;
+	padding: 30px;
 	text-align: center;
+
 
 }
 
@@ -66,7 +67,7 @@ article{
 	height: 100%;
 	width: 70%;
 	margin-left: 25%;
-	margin-top: -350px;
+	margin-top: -450px;
 	margin-right: 5%;	
 	padding: 10px;
 }
