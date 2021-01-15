@@ -39,10 +39,8 @@ nav:first-child>div:hover{
 }
 nav#menu{
 	display: block;
-	position: fixed;
 	height: 100%;
 	width: 20%;
-	margin-top: -50px;
 	margin-right: 80%;
 	background-color: #cf9482;
 	color: #071959;
@@ -52,8 +50,10 @@ nav#menu{
 	font-weight: bold;
 }
 nav#menu>div{
-	padding: 70px 0 20px 0;
+	height: 100px;
+	padding: 20px;
 	text-align: center;
+
 }
 
 nav#menu>div:hover{
@@ -66,7 +66,7 @@ article{
 	height: 100%;
 	width: 70%;
 	margin-left: 25%;
-	margin-top: 20px;
+	margin-top: -350px;
 	margin-right: 5%;	
 	padding: 10px;
 }
@@ -78,9 +78,9 @@ img{
 article>div{
 	display: inline-block;
 	
-	height: 400px;
+	height: 500px;
 	width: 400px;
 	margin: 15px;
-	padding: 20px;
+	padding: 15px;
 	background-color: #FFEBE7;
 }
