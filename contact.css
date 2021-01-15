@@ -18,6 +18,7 @@ body{
 	height: 100%;
 	background-color: #F9DEC9;
 	font:2,4vh/3.6vh;
+
 }
 h1{
 	padding: 10px;
@@ -29,7 +30,6 @@ nav:first-child{
 	height: 100%;
 	width: 20%;
 	margin-right: 80%;
-
 	background-color: #AEC5EB;
 	color: #3A405A;
 	text-align: center;
@@ -66,7 +66,7 @@ nav:nth-of-type(2){
 	font-size: 5vh;
 	margin-bottom: 100px;
 	text-align: center;
-
+margin-bottom: 50px;
 }
 nav:nth-of-type(2)>div{
 	position: relative;
@@ -90,6 +90,7 @@ nav:nth-of-type(2)>div>div{
 	margin-top: -97px;
 	margin-left: 100px;
 	padding-top: 60px;
+
 	background-color: white;
 	opacity: 0;
 	color: black;
