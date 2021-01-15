@@ -15,7 +15,7 @@ html{
 body{
 	width: 100%;
 	min-height: 100%;
-
+	background-color: #a39391;
 	text-align: center;
 }
 
@@ -42,7 +42,7 @@ article{
 }
 nav:nth-of-type(2){
 	background-color: #a39391;
-	position: fixed;
+
 	min-height: 100%;
 	width: 100%;
 	font-family: Lobster;
